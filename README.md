@@ -9,9 +9,9 @@
 Java is an object-oriented programming language that is designed to have as few implementation dependencies as possible.\
 Firebase is a Google application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment.
 <br><br>
-<p align="center"><img src="https://zupimages.net/up/22/02/whwo.png" width="700"></p>
+<p align="center"><img src="https://zupimages.net/up/22/02/whwo.png" width="800"></p>
 <br>
-<p align="center"><img src="https://zupimages.net/up/22/02/w7a0.png" width="700"></p>
+<p align="center"><img src="https://zupimages.net/up/22/02/w7a0.png" width="800"></p>
 
 ### 👍 If you liked this repository
 ### ⭐ Feel free to leave a star 
