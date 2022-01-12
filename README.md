@@ -1,7 +1,7 @@
 # Delivery Tracking
 <br>
 <p align="center"><a href="https://developer.android.com/studio/intro" target="_blank"><img src="https://zupimages.net/up/22/02/obqa.png" width="250"></a></p>
-<p align="center"><a href="https://firebase.google.com" target="_blank"><img src="https://zupimages.net/up/22/02/t7il.png" width=350"></a></p>
+<p align="center"><a href="https://firebase.google.com" target="_blank"><img src="https://zupimages.net/up/22/02/t7il.png" width=370"></a></p>
   
 ## 📌 My first android Java application with Firebase.
 
