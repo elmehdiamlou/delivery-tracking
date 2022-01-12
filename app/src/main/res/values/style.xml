@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextHintBlue">
+        <item name="colorError">@color/red</item>
+        <item name="colorPrimary">@color/blue_2</item>
+        <item name="colorOnSurface">@color/blue_2</item>
+    </style>
+    <style name="EditTextHintGray">
+        <item name="colorError">@color/red</item>
+        <item name="colorPrimary">@color/purple_2</item>
+        <item name="colorOnSurface">@color/purple_2</item>
+    </style>
+    <style name="Switch">
+        <item name="colorControlActivated">@color/green_2</item>
+        <item name="android:colorForeground">@color/green_2</item>
+
+        <item name="colorSwitchThumbNormal">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115505643284",
+    "project_id": "fir-dliverytracking",
+    "storage_bucket": "fir-dliverytracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115505643284:android:b4bdbde759f44bc6a40c01",
+        "android_client_info": {
+          "package_name": "com.example.slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115505643284-io87elbcliq30i9n5ealf7p8q6f3i999.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slider",
+            "certificate_hash": "e0bf0d4378499786749b72d2673997bb0e946451"
+          }
+        },
+        {
+          "client_id": "115505643284-dh62cantbn1rrr7qneb8mhajeqmdhv36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpucb_IE_Ig7zLW1IU4aTzoxhtgWyi5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115505643284-dh62cantbn1rrr7qneb8mhajeqmdhv36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
